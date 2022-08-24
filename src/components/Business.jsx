@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const Business = () => {
-  return (
-    <div>Business</div>
-  )
-}
-
-export default Business
-=======
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
@@ -54,4 +43,4 @@ const Business = () =>  (
 );
 
 export default Business;
->>>>>>> dev
+
