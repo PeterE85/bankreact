@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const Stats = () => {
-  return (
-    <div>Stats</div>
-  )
-}
-
-export default Stats
-=======
 import { stats } from "../constants";
 import styles from "../style";
 
@@ -28,4 +17,4 @@ const Stats = () => (
 );
 
 export default Stats;
->>>>>>> dev
+
