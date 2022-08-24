@@ -1,10 +1,3 @@
-import React from 'react'
-<<<<<<< HEAD
-
-const NavBar = () => {
-  return (
-    <div>NavBar</div>
-=======
 import { useState } from 'react';
 import { close, logo, menu } from '../assets';
 import { navLinks } from '../constants';
@@ -51,7 +44,6 @@ const NavBar = () => {
       </div>
 
     </nav>
->>>>>>> dev
   )
 }
 

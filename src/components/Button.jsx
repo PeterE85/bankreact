@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-const Button = () => {
-  return (
-    <div>Button</div>
-  )
-}
-
-export default Button
-=======
 import React from "react";
 
 const Button = ({ styles }) => (
@@ -18,4 +7,4 @@ const Button = ({ styles }) => (
 );
 
 export default Button;
->>>>>>> dev
+
